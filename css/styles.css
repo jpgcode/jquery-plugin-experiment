@@ -1,0 +1,51 @@
+/*--
+Tags
+--*/
+
+body{
+	font: 12px/14px Helvetica, Arial, sans-serif;
+}
+
+a{
+	text-decoration: none;
+}
+
+p{
+	margin-bottom: 10px;
+}
+
+
+
+/*--
+Classes
+--*/
+
+.hidden{
+	display: none;
+}
+
+.ir{
+	display: block;
+	text-indent: -99999px;
+}
+
+
+
+/*--
+Layout
+--*/
+
+#wrap{
+
+}
+
+#tweet{
+	width: 110px;
+	height: 44px;
+	background: url('../img/btn-tweet-off.png') no-repeat 0px -17px;
+}
+#glass{
+	width: 182px;
+	height: 60px;
+	background: url('../img/btn-raise-a-glass_off.png') no-repeat;
+}
